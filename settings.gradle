@@ -1,6 +1,0 @@
-pluginManagement {
-    repositories { gradlePluginPortal(); google(); mavenCentral() }
-}
-
-rootProject.name='Boosting'
-include ':app'
